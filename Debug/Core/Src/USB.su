@@ -1,0 +1,4 @@
+../Core/Src/USB.c:18:16:get_register_address	48	static
+../Core/Src/USB.c:48:6:handle_read_command	40	static
+../Core/Src/USB.c:68:6:handle_write_command	32	static
+../Core/Src/USB.c:90:6:parse_command	48	static

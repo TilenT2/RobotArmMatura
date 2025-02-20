@@ -1,0 +1,3 @@
+../Core/Src/TMC2660_SPI.c:18:9:tmc2660_getcontinuousModeEnable	2
+../Core/Src/TMC2660_SPI.c:23:6:tmc2660_setContinuousMode	2
+../Core/Src/TMC2660_SPI.c:30:6:tmc2660_readWriteSPI	1
